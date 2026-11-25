@@ -1,0 +1,540 @@
+[
+  {
+    "id": 1,
+    "name": "Everyday crew tee",
+    "category": "T-shirts",
+    "brand": "Alder & Ash",
+    "collection": "Core Essentials",
+    "colour": "Ecru",
+    "description": "A soft cotton jersey tee with an easy shoulder and a ribbed crew neck.",
+    "image": "tee",
+    "price": 990,
+    "variants": [
+      {
+        "id": 10,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 11,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 12,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 13,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Oxford shirt",
+    "category": "Shirts",
+    "brand": "Alder & Ash",
+    "collection": "Coastal Reserve",
+    "colour": "Midnight",
+    "description": "A textured cotton button-down with a relaxed cut and curved hem.",
+    "image": "oxford",
+    "price": 2190,
+    "variants": [
+      {
+        "id": 20,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 21,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 22,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 23,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Utility cargo",
+    "category": "Trousers",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Olive",
+    "description": "Straight-leg cargo trousers with roomy patch pockets.",
+    "image": "cargo",
+    "price": 2790,
+    "variants": [
+      {
+        "id": 30,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 31,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 32,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 33,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pleated trouser",
+    "category": "Trousers",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Charcoal",
+    "description": "A clean taper and single front pleat in a soft woven fabric.",
+    "image": "trousers",
+    "price": 2490,
+    "variants": [
+      {
+        "id": 40,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 41,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 42,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 43,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Suede bomber",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Tobacco",
+    "description": "A brushed suede finish with a close ribbed collar and tonal zip.",
+    "image": "bomber",
+    "price": 4990,
+    "variants": [
+      {
+        "id": 50,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 51,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 52,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 53,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Denim trucker",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Indigo",
+    "description": "Dark-wash denim with contrast stitching and two chest pockets.",
+    "image": "denim",
+    "price": 3490,
+    "variants": [
+      {
+        "id": 60,
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "id": 61,
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "id": 62,
+        "size": "L",
+        "stock": 12
+      },
+      {
+        "id": 63,
+        "size": "XL",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Washed heavyweight tee",
+    "category": "T-shirts",
+    "brand": "Alder & Ash",
+    "collection": "Core Essentials",
+    "colour": "Stone",
+    "description": "Dense, soft cotton jersey with a refined drape and a relaxed fit.",
+    "image": "tee",
+    "price": 1690,
+    "variants": [
+      { "id": 70, "size": "S", "stock": 12 },
+      { "id": 71, "size": "M", "stock": 12 },
+      { "id": 72, "size": "L", "stock": 12 },
+      { "id": 73, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Linen blend Oxford",
+    "category": "Shirts",
+    "brand": "Alder & Ash",
+    "collection": "Coastal Reserve",
+    "colour": "Sand",
+    "description": "A breathable linen-cotton button-down made for warm-weather layering.",
+    "image": "oxford",
+    "price": 3290,
+    "variants": [
+      { "id": 80, "size": "S", "stock": 12 },
+      { "id": 81, "size": "M", "stock": 12 },
+      { "id": 82, "size": "L", "stock": 12 },
+      { "id": 83, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tailored travel chino",
+    "category": "Trousers",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Stone",
+    "description": "A clean tapered chino with just enough stretch for all-day comfort.",
+    "image": "trousers",
+    "price": 3890,
+    "variants": [
+      { "id": 90, "size": "S", "stock": 12 },
+      { "id": 91, "size": "M", "stock": 12 },
+      { "id": 92, "size": "L", "stock": 12 },
+      { "id": 93, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Textured pleat trouser",
+    "category": "Trousers",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Deep navy",
+    "description": "A softly structured weave and single pleat bring polish to an easy fit.",
+    "image": "trousers",
+    "price": 4590,
+    "variants": [
+      { "id": 100, "size": "S", "stock": 12 },
+      { "id": 101, "size": "M", "stock": 12 },
+      { "id": 102, "size": "L", "stock": 12 },
+      { "id": 103, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Denim work overshirt",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Rinse indigo",
+    "description": "A sturdy, versatile layer with a classic collar and workwear pockets.",
+    "image": "denim",
+    "price": 4290,
+    "variants": [
+      { "id": 110, "size": "S", "stock": 12 },
+      { "id": 111, "size": "M", "stock": 12 },
+      { "id": 112, "size": "L", "stock": 12 },
+      { "id": 113, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Suede zip jacket",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Dark olive",
+    "description": "A premium suede finish gives this streamlined zip jacket a refined edge.",
+    "image": "bomber",
+    "price": 6990,
+    "variants": [
+      { "id": 120, "size": "S", "stock": 12 },
+      { "id": 121, "size": "M", "stock": 12 },
+      { "id": 122, "size": "L", "stock": 12 },
+      { "id": 123, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Cotton Henley tee",
+    "category": "T-shirts",
+    "brand": "Alder & Ash",
+    "collection": "Core Essentials",
+    "colour": "Oatmeal",
+    "description": "A soft cotton Henley with a neat button placket and an easy everyday fit.",
+    "image": "tee",
+    "price": 1890,
+    "variants": [
+      { "id": 130, "size": "S", "stock": 12 },
+      { "id": 131, "size": "M", "stock": 12 },
+      { "id": 132, "size": "L", "stock": 12 },
+      { "id": 133, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Long-sleeve cotton tee",
+    "category": "T-shirts",
+    "brand": "Alder & Ash",
+    "collection": "Core Essentials",
+    "colour": "Forest",
+    "description": "A versatile long-sleeve layer in breathable cotton jersey.",
+    "image": "tee",
+    "price": 2190,
+    "variants": [
+      { "id": 140, "size": "S", "stock": 12 },
+      { "id": 141, "size": "M", "stock": 12 },
+      { "id": 142, "size": "L", "stock": 12 },
+      { "id": 143, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Linen camp-collar shirt",
+    "category": "Shirts",
+    "brand": "Alder & Ash",
+    "collection": "Coastal Reserve",
+    "colour": "Cloud blue",
+    "description": "A relaxed open-collar shirt in a breathable linen blend.",
+    "image": "oxford",
+    "price": 2990,
+    "variants": [
+      { "id": 150, "size": "S", "stock": 12 },
+      { "id": 151, "size": "M", "stock": 12 },
+      { "id": 152, "size": "L", "stock": 12 },
+      { "id": 153, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Brushed cotton overshirt",
+    "category": "Shirts",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Warm taupe",
+    "description": "A soft brushed-cotton layer that works over tees and under coats.",
+    "image": "oxford",
+    "price": 3590,
+    "variants": [
+      { "id": 160, "size": "S", "stock": 12 },
+      { "id": 161, "size": "M", "stock": 12 },
+      { "id": 162, "size": "L", "stock": 12 },
+      { "id": 163, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Canvas utility pant",
+    "category": "Trousers",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Khaki",
+    "description": "Durable cotton canvas with a straight leg and practical utility pockets.",
+    "image": "cargo",
+    "price": 3290,
+    "variants": [
+      { "id": 170, "size": "S", "stock": 12 },
+      { "id": 171, "size": "M", "stock": 12 },
+      { "id": 172, "size": "L", "stock": 12 },
+      { "id": 173, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cotton drawstring trouser",
+    "category": "Trousers",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Ecru",
+    "description": "A relaxed straight-leg trouser with a clean finish and adjustable waist.",
+    "image": "trousers",
+    "price": 3490,
+    "variants": [
+      { "id": 180, "size": "S", "stock": 12 },
+      { "id": 181, "size": "M", "stock": 12 },
+      { "id": 182, "size": "L", "stock": 12 },
+      { "id": 183, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Raw denim overshirt",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Dark indigo",
+    "description": "A sturdy denim layer with a straight hem and clean workwear details.",
+    "image": "denim",
+    "price": 4590,
+    "variants": [
+      { "id": 190, "size": "S", "stock": 12 },
+      { "id": 191, "size": "M", "stock": 12 },
+      { "id": 192, "size": "L", "stock": 12 },
+      { "id": 193, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Lightweight bomber jacket",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Moss",
+    "description": "A light everyday jacket with a ribbed collar and a clean zip front.",
+    "image": "bomber",
+    "price": 5490,
+    "variants": [
+      { "id": 200, "size": "S", "stock": 12 },
+      { "id": 201, "size": "M", "stock": 12 },
+      { "id": 202, "size": "L", "stock": 12 },
+      { "id": 203, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Relaxed crew sweatshirt",
+    "category": "Sweatshirts",
+    "brand": "Alder & Ash",
+    "collection": "Core Essentials",
+    "colour": "Ivory",
+    "description": "A soft heavyweight cotton sweatshirt with a relaxed fit and ribbed trims.",
+    "image": "sweatshirt",
+    "price": 2490,
+    "variants": [
+      { "id": 210, "size": "S", "stock": 12 },
+      { "id": 211, "size": "M", "stock": 12 },
+      { "id": 212, "size": "L", "stock": 12 },
+      { "id": 213, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Classic poplin shirt",
+    "category": "Shirts",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "White",
+    "description": "A crisp cotton poplin shirt with a clean collar and a considered regular fit.",
+    "image": "linen-shirt",
+    "price": 2790,
+    "variants": [
+      { "id": 220, "size": "S", "stock": 12 },
+      { "id": 221, "size": "M", "stock": 12 },
+      { "id": 222, "size": "L", "stock": 12 },
+      { "id": 223, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Everyday Oxford shirt",
+    "category": "Shirts",
+    "brand": "Alder & Ash",
+    "collection": "Coastal Reserve",
+    "colour": "Cloud",
+    "description": "A versatile Oxford shirt designed for easy layering through the week.",
+    "image": "oxford",
+    "price": 3190,
+    "variants": [
+      { "id": 230, "size": "S", "stock": 12 },
+      { "id": 231, "size": "M", "stock": 12 },
+      { "id": 232, "size": "L", "stock": 12 },
+      { "id": 233, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Straight-fit dark denim",
+    "category": "Trousers",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Indigo",
+    "description": "An everyday straight-leg jean in dark indigo denim with subtle contrast stitching.",
+    "image": "denim",
+    "price": 3690,
+    "variants": [
+      { "id": 240, "size": "S", "stock": 12 },
+      { "id": 241, "size": "M", "stock": 12 },
+      { "id": 242, "size": "L", "stock": 12 },
+      { "id": 243, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cotton straight chino",
+    "category": "Trousers",
+    "brand": "Northline Atelier",
+    "collection": "Modern Tailoring",
+    "colour": "Charcoal",
+    "description": "A clean straight-leg chino in soft cotton twill for everyday wear.",
+    "image": "chino",
+    "price": 3290,
+    "variants": [
+      { "id": 250, "size": "S", "stock": 12 },
+      { "id": 251, "size": "M", "stock": 12 },
+      { "id": 252, "size": "L", "stock": 12 },
+      { "id": 253, "size": "XL", "stock": 12 }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Rust bomber jacket",
+    "category": "Jackets",
+    "brand": "Westward Reserve",
+    "collection": "Field Collection",
+    "colour": "Rust",
+    "description": "A lightweight zip-front bomber with a clean silhouette and ribbed collar.",
+    "image": "field-jacket",
+    "price": 5790,
+    "variants": [
+      { "id": 260, "size": "S", "stock": 12 },
+      { "id": 261, "size": "M", "stock": 12 },
+      { "id": 262, "size": "L", "stock": 12 },
+      { "id": 263, "size": "XL", "stock": 12 }
+    ]
+  }
+]

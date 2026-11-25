@@ -1,0 +1,124 @@
+/* ── Auth / Login page ─────────────────────────────────────────────────────── */
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--pine);
+  padding: 1rem;
+}
+
+.auth-card {
+  background: #fbfaf6;
+  width: 100%;
+  max-width: 420px;
+  padding: 2.5rem 2.25rem 2rem;
+}
+
+.auth-brand {
+  font: bold 2.1rem Georgia, serif;
+  letter-spacing: -0.07rem;
+  color: var(--pine);
+  margin-bottom: 0.2rem;
+}
+
+.auth-brand i {
+  font-weight: 400;
+}
+
+.auth-tagline {
+  color: #5a655d;
+  font-size: 0.9rem;
+  margin: 0 0 1.75rem;
+}
+
+/* Tab switcher */
+.auth-tabs {
+  display: flex;
+  border-bottom: 2px solid var(--line);
+  margin-bottom: 1.6rem;
+}
+
+.auth-tabs button {
+  flex: 1;
+  background: none;
+  color: #5a655d;
+  padding: 0.6rem 0.5rem;
+  border-radius: 0;
+  font-size: 0.95rem;
+  position: relative;
+  transition: color 150ms;
+}
+
+.auth-tabs button::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--pine);
+  transform: scaleX(0);
+  transition: transform 150ms ease;
+}
+
+.auth-tabs button.active {
+  color: var(--pine);
+  font-weight: 600;
+}
+
+.auth-tabs button.active::after {
+  transform: scaleX(1);
+}
+
+/* Form */
+.auth-form {
+  display: grid;
+  gap: 1rem;
+}
+
+.auth-form label {
+  display: grid;
+  gap: 0.3rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #2a3a2f;
+}
+
+.auth-form input {
+  border: 1px solid #b6bfb3;
+  padding: 0.65rem 0.75rem;
+  width: 100%;
+  background: white;
+  font-size: 1rem;
+  transition: border-color 150ms;
+}
+
+.auth-form input:focus {
+  outline: none;
+  border-color: var(--pine);
+}
+
+.auth-error {
+  background: #fdf0f0;
+  border-left: 3px solid #c0392b;
+  color: #c0392b;
+  padding: 0.6rem 0.8rem;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.auth-submit {
+  margin-top: 0.4rem;
+  padding: 0.85rem;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  width: 100%;
+}
+
+.auth-guest {
+  background: transparent;
+  color: var(--pine);
+  padding: 0.4rem;
+  text-decoration: underline;
+}
